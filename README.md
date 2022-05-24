@@ -4,13 +4,15 @@
 [python 3.7 32bit download here.](https://www.python.org/downloads/release/python-379/)
 
 ## 실행
-`venv` 폴더에서 가상환경 이용하세요.
+미리 생성해둔 가상환경을 이용하세요.
+* `venv37_32`는 대신증권 API로 부터 주가 데이터를 얻어오는데 씁니다.
+* `venv310_64`는 일반적인 데이터 분석-머신러닝을 프로그래밍 하는데 씁니다.
 
 ---
 
 ### 이 프로젝트는 PyCharm을 이용해 구현하였습니다. 동일한 결과를 얻고 싶다면 다음과 같은 환경을 설정해주세요.
 * IDE: PyCharm
-* Python: 3.7 32bit
+* Python: 3.7 32bit, 3.10 64bit
 * PyPi: [requirements.txt](./requirements.txt)
 * Data Source: 대신증권 API
 
