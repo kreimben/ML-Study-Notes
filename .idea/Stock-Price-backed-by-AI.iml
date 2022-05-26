@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv310_64" />
       <excludeFolder url="file://$MODULE_DIR$/venv37_32" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (Stock-Price-backed-by-AI)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (AI-Stock-Value-Estimate)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -1,7 +1,4 @@
 from Utils.finance import Finance
-from Utils.tf import tf
+from Utils.ml import sl
 
-# finance = Finance()
-# finance.test_sshn()
-
-tf()
+sl()
