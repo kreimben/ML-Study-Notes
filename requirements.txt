@@ -4,3 +4,4 @@ pandas>=1.0.1
 scipy>=1.4.1
 scikit-learn>=1.1.1
 fastai>=2.0.11
+python-dotenv>=1.0.0
