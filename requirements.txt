@@ -8,3 +8,4 @@ fastai
 python-dotenv
 seaborn
 missingno
+ydata-profiling
