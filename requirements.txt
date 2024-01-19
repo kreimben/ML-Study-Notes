@@ -1,12 +1,14 @@
-datetime
 matplotlib
 pandas
 numpy
 scipy
-scikit-learn
 fastai
+fastbook
+fastcore
 python-dotenv
 seaborn
 missingno
 ydata-profiling
-auto-sklearn
+Cython
+jupyter-lsp>=2.2.2
+jinja2>=3.1.3
