@@ -3,6 +3,7 @@ pandas
 numpy
 scipy
 fastai
+pyprnt
 fastbook
 fastcore
 python-dotenv
